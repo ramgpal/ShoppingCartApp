@@ -12,7 +12,7 @@
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-## Clone the Repository**:
+ **Clone the Repository**:
 
    ```bash
    git clone https://github.com/ramgpal/ShoppingCartApp.git
