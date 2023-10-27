@@ -16,3 +16,36 @@
 
 ![Cart](./cart.png)
 
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Before you begin, make sure you have the following software installed on your machine:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+### Installation
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/yourusername/ShoppingCartApp.git
+
+2. **Install Dependencies:**
+    ```bash
+    npm install
+
+    ```bash
+    npm install react-router-dom
+
+    ```bash
+    npm install react-icons
+
+3. **Run the Application:**
+    ```bash
+    npm run start
+
+
