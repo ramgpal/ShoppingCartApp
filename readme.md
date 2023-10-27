@@ -35,6 +35,6 @@ These instructions will help you get a copy of the project up and running on you
 
 Here are some screenshots of the ShoppingCartApp:
 
-![Homepage](screenshots/Home.png)
-![Cart Page](screenshots/cart.png)
+![Homepage](Home.png)
+![Cart Page](cart.png)
 
