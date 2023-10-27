@@ -36,14 +36,9 @@ Before you begin, make sure you have the following software installed on your ma
 
 2. **Install Dependencies:**
 
-    ```bash
-    npm install 
-
-    ```bash
-    npm install react-router-dom
-
-    ```bash
-    npm install react-icons
+   1. npm install 
+   2. npm install react-router-dom
+   3. npm install react-icons
 
 3. **Run the Application:**
     ```bash
