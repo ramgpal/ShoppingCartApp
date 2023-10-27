@@ -34,12 +34,3 @@ Before you begin, make sure you have the following software installed on your ma
    ```bash
    git clone https://github.com/yourusername/ShoppingCartApp.git
 
-## Installation
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/ShoppingCartApp.git
-   cd ShoppingCartApp
-   npm install
-   npm start
