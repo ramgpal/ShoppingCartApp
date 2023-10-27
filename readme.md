@@ -12,16 +12,8 @@
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
- **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/ramgpal/ShoppingCartApp.git
-
-
-## Screenshots
-
-Here are some screenshots of the ShoppingCartApp:
+## Screenshots:
 
 ![Homepage](./Home.png)
-![Cart Page](./cart.png)
+
 
