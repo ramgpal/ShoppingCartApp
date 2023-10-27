@@ -34,18 +34,12 @@ Before you begin, make sure you have the following software installed on your ma
    ```bash
    git clone https://github.com/yourusername/ShoppingCartApp.git
 
-2. **Install Dependencies:**
-    ```bash
-    npm install
+## Installation
 
-    ```bash
-    npm install react-router-dom
+1. **Clone the Repository**:
 
-    ```bash
-    npm install react-icons
-
-3. **Run the Application:**
-    ```bash
-    npm run start
-
-
+   ```bash
+   git clone https://github.com/yourusername/ShoppingCartApp.git
+   cd ShoppingCartApp
+   npm install
+   npm start
