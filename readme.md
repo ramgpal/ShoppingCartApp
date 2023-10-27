@@ -12,24 +12,11 @@
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-1. **Clone the Repository**:
+## Clone the Repository**:
 
    ```bash
    git clone https://github.com/ramgpal/ShoppingCartApp.git
 
-2. **Navigate to the Project Directory:**
-     
-     cd ShoppingCartApp
-
-3. **Install Dependencies:**
-    
-    npm install
-    npm install react-icons
-    npm install react-routers-dom
-
-4. **Run the Application:**
-    
-    npm run start
 
 ## Screenshots
 
